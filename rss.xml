@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gary Goldberg Photography]]></title>
+        <description><![CDATA[Gary Goldberg Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Apr 2016 13:12:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PEI, Nova Scotia, Lunenberg]]></title>
+            <description><![CDATA[<article><h1>PEI, Nova Scotia, Lunenberg</h1><p>Some images from my trip to Canada's East Coast this past summer!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b852de0e53e51d13d75436dc09aacf826b546a9.jpg"></article>]]></description>
+            <link>undefinedpei-nova-scotia-lunenberg/index.html</link>
+            <guid isPermaLink="false">2d258e93-aa38-47da-8267-459e5992fd99</guid>
+            <pubDate>Sat, 09 Apr 2016 13:12:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
